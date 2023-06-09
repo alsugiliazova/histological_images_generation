@@ -14,7 +14,11 @@
     1. Алгоритм SSM (https://github.com/alsugiliazova/histological_images_generation/blob/master/StatisticalShapeModels.ipynb)
     2. Нейросетевой метод генерации маски отдельной железы (https://github.com/manicman1999/GAN256)
     ![Иллюстрация к проекту](https://github.com/alsugiliazova/histological_images_generation/blob/master/images/masks_gan/gan_img_32.jpg)
-    ![alt-text-1]([image1.png](https://github.com/alsugiliazova/histological_images_generation/blob/master/images/masks_gan/gan_img_32.jpg) "title-1") ![alt-text-2](image2.png "title-2")
+    <p align="center">
+  <img alt="Light" src="https://github.com/alsugiliazova/histological_images_generation/blob/master/images/masks_gan/gan_img_42.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/alsugiliazova/histological_images_generation/blob/master/images/masks_gan/gan_img_42.jpg" width="45%">
+</p>
 2. Алгоритм расположения желез на фоне (https://github.com/alsugiliazova/histological_images_generation/blob/master/make_full_mask.ipynb)
 3. Генерация текстуры отдельной железы по маске (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 4. Генерация фона
