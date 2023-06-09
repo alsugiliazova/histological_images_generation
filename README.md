@@ -17,4 +17,4 @@
 3. Генерация текстуры отдельной делезы по маске (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 4. Генерация фона
     1. С использованием патчей из датасета (https://github.com/alsugiliazova/histological_images_generation/blob/master/background.ipynb)
-    2. Нейросетевой метод генерации Текстуры фона (https://github.com/NVIDIA/pix2pixHD)
+    2. Нейросетевой метод генерации текстуры фона (https://github.com/NVIDIA/pix2pixHD)
