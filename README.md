@@ -5,7 +5,7 @@
 
 **Проекты, которые использовались при выполнении дипломной работы:**
 1. https://github.com/manicman1999/GAN256 - для генерации масок отдельных желез.
-2. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - для генерации текстуры фона отдельной железы.
+2. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - для генерации текстуры отдельной железы.
 3. https://github.com/NVIDIA/pix2pixHD - для генерации текстуры фона.
 
 
@@ -14,7 +14,7 @@
     1. Алгоритм SSM (https://github.com/alsugiliazova/histological_images_generation/blob/master/StatisticalShapeModels.ipynb)
     2. Нейросетевой метод генерации маски отдельной железы (https://github.com/manicman1999/GAN256)
 2. Алгоритм расположения желез на фоне (https://github.com/alsugiliazova/histological_images_generation/blob/master/make_full_mask.ipynb)
-3. Генерация текстуры отдельной делезы по маске (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+3. Генерация текстуры отдельной железы по маске (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 4. Генерация фона
     1. С использованием патчей из датасета (https://github.com/alsugiliazova/histological_images_generation/blob/master/background.ipynb)
     2. Нейросетевой метод генерации текстуры фона (https://github.com/NVIDIA/pix2pixHD)
